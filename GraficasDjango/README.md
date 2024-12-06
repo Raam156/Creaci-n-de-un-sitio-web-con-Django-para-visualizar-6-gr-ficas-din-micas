@@ -7,5 +7,14 @@ En este proyecto usé Django y chart.js para crear 6 gráficas interactivas.
 -Instalar Django.
 
 # Para instalar:
-Clona este repositorio
+Clona este repositorio: https://github.com/Raam156/Creaci-n-de-un-sitio-web-con-Django-para-visualizar-6-gr-ficas-din-micas.git
+
+# Instala las dependencias:
+pip install -r requirements.txt
+
+# Ejecuta el servidor:
+python manage.py runserver
+
+
+
 
